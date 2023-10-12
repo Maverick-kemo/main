@@ -1,5 +1,5 @@
 int main()
-{int x
+{int y
   printf("hellow world");
   return 0;
   
