@@ -1,0 +1,4 @@
+int adc()
+{
+printf("hii")
+}
